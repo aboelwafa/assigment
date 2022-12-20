@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "30112308199",
+    "project_id": "polar-program-371609",
+    "storage_bucket": "polar-program-371609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30112308199:android:4197c0c340edf2e59bbb42",
+        "android_client_info": {
+          "package_name": "com.example.assigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30112308199-tlb0mq873fldri2438ipi9sbogq2jm80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.assigment",
+            "certificate_hash": "b13adfa7745ba988bf93ae7f577f870af9570d3b"
+          }
+        },
+        {
+          "client_id": "30112308199-pedtbdp07stohb3bjropts63jb61li46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqkUBoE7XYVpjuUnCf2LjUU6LJDDnjcpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30112308199-pedtbdp07stohb3bjropts63jb61li46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
